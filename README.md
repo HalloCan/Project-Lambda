@@ -11,4 +11,3 @@ Project Lambda为学习性质的实验作品，不可以将其应用于违法违
 - [ ] 消息广播定向推送
 - ...
 
-*Project Lambda Alpha*
